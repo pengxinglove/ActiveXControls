@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ActiveXControl", "ActiveXControl\ActiveXControl.csproj", "{FCD25CD7-85EA-4E0B-BE7E-4BDE878CB035}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebCliect", "WebCliect\WebCliect.csproj", "{CB877DA4-2C86-4935-AB52-0F32F935361D}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{3646664E-8517-4A1F-8055-CA404028E638}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCD25CD7-85EA-4E0B-BE7E-4BDE878CB035}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCD25CD7-85EA-4E0B-BE7E-4BDE878CB035}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCD25CD7-85EA-4E0B-BE7E-4BDE878CB035}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCD25CD7-85EA-4E0B-BE7E-4BDE878CB035}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB877DA4-2C86-4935-AB52-0F32F935361D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB877DA4-2C86-4935-AB52-0F32F935361D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB877DA4-2C86-4935-AB52-0F32F935361D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB877DA4-2C86-4935-AB52-0F32F935361D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3646664E-8517-4A1F-8055-CA404028E638}.Debug|Any CPU.ActiveCfg = Debug
+		{3646664E-8517-4A1F-8055-CA404028E638}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9DD945C2-5E92-409F-A002-DC326482A8D5}
+	EndGlobalSection
+EndGlobal

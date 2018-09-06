@@ -1,0 +1,7 @@
+F:\WorkSpace\GitHub-WorkSpace\Project-C#\Control\ActiveXControl\bin\Debug\ActiveXControl.dll
+F:\WorkSpace\GitHub-WorkSpace\Project-C#\Control\ActiveXControl\bin\Debug\ActiveXControl.pdb
+F:\WorkSpace\GitHub-WorkSpace\Project-C#\Control\ActiveXControl\obj\Debug\ActiveXControl.csprojAssemblyReference.cache
+F:\WorkSpace\GitHub-WorkSpace\Project-C#\Control\ActiveXControl\obj\Debug\ActiveXControl.csproj.CoreCompileInputs.cache
+F:\WorkSpace\GitHub-WorkSpace\Project-C#\Control\ActiveXControl\obj\Debug\ActiveXControl.dll
+F:\WorkSpace\GitHub-WorkSpace\Project-C#\Control\ActiveXControl\obj\Debug\ActiveXControl.pdb
+F:\WorkSpace\GitHub-WorkSpace\Project-C#\Control\ActiveXControl\bin\Debug\ActiveXControl.tlb

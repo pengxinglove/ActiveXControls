@@ -1,0 +1,21 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <script type="text/javascript">
+        function load() {
+            var dom = document.getElementById("activex");
+            dom.regJs(window, 'test');
+            dom.Init('ActiveX控件初始化...');
+        }
+
+        function test() {
+            alert("向ActiveX控件注册回调函数");
+        }
+    </script>
+</head>
+<body onload="load()">
+    <object id="activex" classid="clsid:f469bc9e-bcde-4da7-bd22-465ddfdaf53a" codebase="lib/setup.exe" width="100%" height="200"></object>
+</body>
+</html>
